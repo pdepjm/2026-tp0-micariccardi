@@ -2,7 +2,7 @@
 
 ### Sobre mí
 Hola! Mi nombre es Micaela Riccardi
-Legajo: 233.016-7
+*Legajo: 233.016-7*
 
 ### Cosas que me gustan
 * Escuchar música
