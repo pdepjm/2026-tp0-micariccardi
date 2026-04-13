@@ -1,8 +1,8 @@
 ## Presentación 
 
 ### Sobre mí
-Hola! Mi nombre es Micaela Riccardi
-*Legajo: 233.016-7*
+Hola! Mi nombre es Micaela Riccardi  
+Legajo: 233.016-7
 
 ### Cosas que me gustan
 * Escuchar música
