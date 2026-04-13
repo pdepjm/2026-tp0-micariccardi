@@ -13,5 +13,5 @@ Hola! Mi nombre es Micaela Riccardi
 ### Foto
 Y acá hay una foto de mi perro 😊
 <p>
-  <img src="fotoRocky.jpeg" width="100">
+  <img src="fotoRocky.jpeg" width="300">
 </p>
